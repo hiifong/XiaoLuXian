@@ -5,3 +5,9 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 ## Recommended IDE Setup
 
 - [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+
+
+## 接口文档
+  - 地址：http://doc.xuexiluxian.cn/web/#/11
+  - 用户名：testapi
+  - 密码：123456
